@@ -1,4 +1,4 @@
-var cookies = 0.0;
+cookies = 0.00;
 
 function cookieClick(number){
     cookies = cookies + number;
