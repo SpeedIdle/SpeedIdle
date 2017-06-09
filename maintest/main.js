@@ -1,7 +1,7 @@
 cookies = 0.00;
 
 function cookieClick(number){
-    cookies = cookies + number + .0;
+    cookies = cookies + number;
     document.getElementById("cookies").innerHTML = cookies;
 };
 
