@@ -1,4 +1,4 @@
-cookies = 0.00;
+cookies = 0;
 
 function cookieClick(number){
     cookies = cookies + number;
@@ -21,6 +21,6 @@ function buyCursor(){
 
 window.setInterval(function(){
 	
-	cookieClick(cursors / 10);
+	cookieClick(cursors);
 	
 }, 100);
