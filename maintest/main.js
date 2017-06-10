@@ -23,4 +23,4 @@ window.setInterval(function(){
 	
 	cookieClick(cursors);
 	
-}, 100);
+}, 1000);
